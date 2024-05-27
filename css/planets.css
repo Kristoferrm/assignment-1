@@ -1,0 +1,38 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+.title{
+	text-align: center;
+}
+
+.planets{
+	width: 20%;
+	display: inline-block;
+	background-color: grey;
+	border-radius: 5px;
+	margin: 60px;
+}
+
+.image img{
+	width: 100%;
+}
+
+.info{
+	text-align: center;
+}
+
+.button{
+	padding: 5px;
+	border-radius: 5px;
+	color: green;
+	background-color: grey;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+}
+
+.button:hover{
+	background-color: black
+}
